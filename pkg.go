@@ -1,4 +1,4 @@
-package mypkg
+package  gotest
 
 import (
 	"fmt"
