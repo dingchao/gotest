@@ -7,3 +7,8 @@ func Myprint(){
 	fmt.Println("hello mytest package")
 
 }
+
+func init(){
+
+	fmt.Println("gotest init")
+}
