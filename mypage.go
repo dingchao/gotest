@@ -8,6 +8,12 @@ func Myprint(){
 
 }
 
+func Mygohello(){
+
+        fmt.Println("hello go")
+
+}
+
 func init(){
 
 	fmt.Println("gotest init")
